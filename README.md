@@ -5,11 +5,10 @@ November 10, 2026
 
 Presented by Ahsen Uppal
 
-## Primary Resources:
-## CSCE 569 @ USC
+## Primary Resource CSCE 569 @ USC
 https://passlab.github.io/CSCE569/
 
-## Lecture 13.5 to 14:
+## Follow Lecture 13.5 to 14:
 
 <https://passlab.github.io/CSCE569/notes/lecture_GPUArchCUDA01.pdf>
 
