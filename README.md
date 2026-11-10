@@ -8,7 +8,7 @@ Presented by Ahsen Uppal
 ## Primary Resource CSCE 569 @ USC
 https://passlab.github.io/CSCE569/
 
-## Follow Lecture 13.5 to 14:
+## Follow Class 23 and 24:
 
 <https://passlab.github.io/CSCE569/notes/lecture_GPUArchCUDA01.pdf>
 
