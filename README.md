@@ -39,14 +39,12 @@ source files and compile them using `nvcc`.
 2. Choose **New notebook**. If a notebook is already open, use **File → New notebook**.
 3. Click the notebook name near the top left and rename it to
    `YourName_GPU_Lab.ipynb`.
-4. Choose **Runtime → Change runtime type**.
-5. Select a **GPU** under **Hardware accelerator**. Choose **T4 GPU** if that
-   option is available. Keep **Python 3** as the runtime language.
+4. Choose **Runtime → Change runtime type**. (Look under the RAM/Disk dropdown at the top right.)
+5. Select a **GPU** under **Hardware accelerator**. Choose **T4 GPU**. Keep **Python 3** as the runtime language.
 6. Click **Save**, then **Connect** near the top right if a connection is needed.
    Wait for the runtime to connect.
 
-Google provides GPU access subject to availability. If Colab cannot allocate a
-GPU, tell the instructor.
+Note: Google provides GPU access subject to availability.
 
 ### How to use notebook cells
 
