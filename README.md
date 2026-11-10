@@ -1,17 +1,19 @@
-# GPU Learning Resources
-Topic: GPUs and CUDA Programming
+# Computer Architecture and Design ECE 4535
+## Topic: GPUs and CUDA Programming
+## November 10, 2026
+## Presented by Ahsen Uppal
 
-Sources:
-# CSCE 569 @ USC
+## Primary Resources:
+## CSCE 569 @ USC
 https://passlab.github.io/CSCE569/
 
-# Lecture 13.5 to 14:
+## Lecture 13.5 to 14:
 
 <https://passlab.github.io/CSCE569/notes/lecture_GPUArchCUDA01.pdf>
 
 <https://passlab.github.io/CSCE569/notes/lecture_GPUArchCUDA02-CUDAMem.pdf>
 
-# Lab
+## Lab
 Log in to orion.ece.seas.gwu.edu and set your $PATH.
 
 Follow the examples:
