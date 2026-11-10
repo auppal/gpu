@@ -1,7 +1,7 @@
 # Computer Architecture and Design ECE 4535
 ## Topic: GPUs and CUDA Programming
-## November 10, 2026
-## Presented by Ahsen Uppal
+November 10, 2026
+Presented by Ahsen Uppal
 
 ## Primary Resources:
 ## CSCE 569 @ USC
