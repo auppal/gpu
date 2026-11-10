@@ -11,6 +11,10 @@ https://passlab.github.io/CSCE569/
 
 <https://passlab.github.io/CSCE569/notes/lecture_GPUArchCUDA02-CUDAMem.pdf>
 
+# Lab
+Log in to orion.ece.seas.gwu.edu and set your $PATH.
+
+Follow the examples:
 <https://passlab.github.io/CSCE569/resources/gpu_code_examples/>
 
 
